@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity9even or odd\bin\Debug\Activity9even or odd.exe.config
+C:\Users\HP\source\repos\Activity9even or odd\bin\Debug\Activity9even or odd.exe
+C:\Users\HP\source\repos\Activity9even or odd\bin\Debug\Activity9even or odd.pdb
+C:\Users\HP\source\repos\Activity9even or odd\obj\Debug\Activity9even or odd.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity9even or odd\obj\Debug\Activity9even or odd.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity9even or odd\obj\Debug\Activity9even or odd.exe
+C:\Users\HP\source\repos\Activity9even or odd\obj\Debug\Activity9even or odd.pdb
